@@ -9,9 +9,14 @@ A proposta é garantir uma experiência intuitiva e adaptada, promovendo inclus�
 
 Autores do projeto.
 
-Denize Goncalves Mancini
-Leandro Dos Santos Marques
 Antonio Glaidston Silva De Vasconcelos
+
+Denize Goncalves Mancini
+
+Leandro Dos Santos Marques
+
 Mileny Vitória Pereira Sousa
-Vinicius Dos Santos Moreira
+
 Eugênio Cafe Da Silva Nascimento
+
+Vinicius Dos Santos Moreira
